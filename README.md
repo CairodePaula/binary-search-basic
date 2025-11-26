@@ -4,12 +4,14 @@ Este projeto implementa a lógica de leitura de números a partir de um arquivo 
 Ele foi desenvolvido como parte da disciplina Estruturas de Dados, com base no fluxograma fornecido para o processo de busca em uma Árvore Binária de Busca (BST).
 
 📂 Estrutura do Projeto
+```bash
 /ProjetoBST
+
 │
 ├── numeros.txt        # Arquivo contendo números (um por linha)
 ├── main.py            # Código principal do programa
 └── README.md          # Documentação do projeto
-
+```
 📑 Objetivo
 
 O objetivo é:
