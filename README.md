@@ -28,14 +28,14 @@ Exibir a posição do número caso ele exista na lista.
 
 Um arquivo chamado numeros.txt, contendo números inteiros, um por linha.
 Exemplo:
-
+```bash
 5
 18
 22
 40
 65
 71
-
+```
 
 O usuário deve digitar, via teclado, o número que deseja procurar.
 
